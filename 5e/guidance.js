@@ -27,7 +27,7 @@ let Guide = {
         seconds: 60,
     },
     icon: GuidIconPath,
-    label: "Guided"
+    name: "Guided"
 }
 //identify token
 if (macroActor === undefined || macroActor === null) {
